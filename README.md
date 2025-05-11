@@ -3,7 +3,6 @@
 ![Мадик Backend / DevOps разработчик:)                                                                                                                                                           ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Я - начинающий Python backend-разработчик.
-Участвую в курсах ICTFOR4GIRLS, где изучаю Python, Django, GIS, участвую в хакатонах и развиваю собственные проекты.
 Люблю создавать веб-приложения
 
 Skills: Python / Django / REST API / Git / GitHub / PostgreSQL
@@ -17,6 +16,9 @@ Skills: Python / Django / REST API / Git / GitHub / PostgreSQL
 [![trophy](https://github-profile-trophy.vercel.app/?username=MadiikCode )](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadiikCode )](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://www.pinterest.com/pin/49891508368492288.gif" width="300"/>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MadiikCode &show_icons=true)  
 
