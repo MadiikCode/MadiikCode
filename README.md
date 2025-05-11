@@ -17,8 +17,6 @@ Skills: Python / Django / REST API / Git / GitHub / PostgreSQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadiikCode )](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://www.pinterest.com/pin/49891508368492288.gif" width="300"/>
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MadiikCode &show_icons=true)  
 
+<img src="https://www.pinterest.com/pin/49891508368492288.gif" width="300"/>
