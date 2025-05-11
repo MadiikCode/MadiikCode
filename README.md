@@ -15,6 +15,6 @@ Skills: Python / Django / REST API / Git / GitHub / PostgreSQL
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MadiikCode )](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadiikCode )](https://github.com/anuraghazra/github-readme-stats)    ###    <img align="right" height="150" src="https://media.tenor.com/rE3c9r2MnCsAAAAi/konata-dance.gif"  />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadiikCode )](https://github.com/anuraghazra/github-readme-stats)       <img align="right" height="150" src="https://media.tenor.com/rE3c9r2MnCsAAAAi/konata-dance.gif"  />
 
-###
+
