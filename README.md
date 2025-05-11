@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Madina
-<img src="https://i.pinimg.com/originals/87/9a/0a/879a0a47ae8f306367dfd9c3712daf35.gif" width="400" height="200"/>
+<img src="https://i.pinimg.com/originals/e6/61/c5/e661c504c2545cc2651b3acac81b76ab.gif" width="400" height="200"/>
 
 Привет! Меня зовут Мадина, но в IT-среде меня чаще зовут Мадик:) Я — начинающий Python backend-разработчик.
 
