@@ -1,20 +1,20 @@
-### Hi there 👋, my name is Madina 
-#### Мадик Backend / DevOps разработчик:)                                                                                                                                                           
-![Мадик Backend / DevOps разработчик:)                                                                                                                                                           ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Madina
+<img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif" width="1000" height="150"/>
 
-Я - начинающий Python backend-разработчик.
-Люблю создавать веб-приложения
+Привет! Меня зовут Мадина, но в IT-среде меня чаще зовут Мадик:) Я — начинающий Python backend-разработчик.
 
 Skills: Python / Django / REST API / Git / GitHub / PostgreSQL
 
-- 🔭 I’m currently working on Проектом BishkekToday — это новостной портал, который я разрабатываю с использованием Django на backend и Bootstrap/CSS на frontend 
+- 🔭 I’m currently working on Проектом BishkekToday — это новостной портал, который я разрабатываю с использованием Django на backend и Bootstrap/CSS на frontend. 
 - 👯 I’m looking to collaborate on Я открыта к новым проектам и коллаборациям, особенно в области веб-разработки, backend и стартапов на ранней стадии 
+- 📫 How to reach me: тг: @akhunbaevvas 
+- ⚡ Fun fact: Когда я училась программировать, думала, что баги — это что-то страшное 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MadiikCode )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/madina-akhunbaeva-b00a44362?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1H9M%2BJPZTJK67GJjESwwyA%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akhunbaevvvas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Madii)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MadiikCode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/madina-akhunbaeva-b00a44362?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2B5JQ8JaQQTuD7OT9uwkn4w%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akhunbaevvas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Madii)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MadiikCode )](https://github.com/ryo-ma/github-profile-trophy)
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadiikCode )](https://github.com/anuraghazra/github-readme-stats)       <img align="right" height="150" src="https://media.tenor.com/rE3c9r2MnCsAAAAi/konata-dance.gif"  />
+    <img align="right" height="150" src="https://media.tenor.com/rE3c9r2MnCsAAAAi/konata-dance.gif"  />
 
 
