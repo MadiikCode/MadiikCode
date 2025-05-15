@@ -1,4 +1,4 @@
-![download-unscreen](https://github.com/user-attachments/assets/f792e15b-248e-45bf-9fbb-2c8333cd4a52)### Hi there 👋, my name is Madina :)
+### Hi there 👋, my name is Madina :)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=500&pause=1000&color=0131D5&width=435&lines=Backend+Developer(Python%2FJunior)++" alt="Typing SVG" /></a>
 
 I’m a passionate junior Python backend developer, just beginning my journey in the world of programming.
