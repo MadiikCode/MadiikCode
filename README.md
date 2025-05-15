@@ -7,7 +7,6 @@ Skills: Python / Django / REST API / Git / GitHub / PostgreSQL
 
 - 🔭 ’m currently working on a project called BishkekToday — a news portal that I’m developing using Django for the backend and Bootstrap/CSS for the frontend.
 - 👯  I’m open to new projects and collaborations, especially in the fields of web development, backend, and early-stage startups.
-- 📫 How to reach me: Telegram: @akhunbaevvas 
 - ⚡  Fun fact: When I first started learning to code, I thought bugs were something scary
 
 
