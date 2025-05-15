@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Madina :)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=500&pause=1000&color=0131D5&width=435&lines=Backend+Developer(Python%2FJunior)++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend+Deca&weight=600&pause=1000&color=2156D5&width=435&lines=Junior+Backend+Developer+(Python)" alt="Typing SVG" /></a>
 
 I’m a passionate junior Python backend developer, just beginning my journey in the world of programming.
 
