@@ -15,3 +15,5 @@ Skills: Python / Django / REST API / Git / GitHub / PostgreSQL
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>     
 
 
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MadiikCode&theme=tokyonight-duo" alt="GitHub Streak" /></a>
