@@ -12,8 +12,7 @@ Skills: Python / Django / REST API / Git / GitHub / PostgreSQL
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MadiikCode&theme=tokyonight-duo" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MadiikCode&theme=transparent" alt="GitHub Streak" /></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MadiikCode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/madina-akhunbaeva-b00a44362/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akhunbaevvas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Madii)  
                                       
