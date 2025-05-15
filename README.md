@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Madina :)
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3d2d2Z6cDgxdmk0dzBybWtoeGRoM2t6NThidGFyaXh6dHQyNjd1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2iMEd50FkzFMulUSAg/giphy.gif" width="350" height="200"/> 
-<img src="https://i.pinimg.com/originals/e6/61/c5/e661c504c2545cc2651b3acac81b76ab.gif" width="350" height="200"/>      
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3d2d2Z6cDgxdmk0dzBybWtoeGRoM2t6NThidGFyaXh6dHQyNjd1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2iMEd50FkzFMulUSAg/giphy.gif" /> 
 
 
 I’m a passionate junior Python backend developer, just beginning my journey in the world of programming.
