@@ -5,7 +5,7 @@ I’m a passionate junior Python backend developer, just beginning my journey in
 
 Skills: Python / Django / Git / GitHub / PostgreSQL 
 
-- 🔭 ’m currently working on a project called BishkekToday — a news portal that I’m developing using Django for the backend and Bootstrap/CSS for the frontend.
+- 🔭 I’m currently working on a project called BishkekToday — a news portal that I’m developing using Django for the backend and Bootstrap/CSS for the frontend.
 - 👯  I’m open to new projects and collaborations, especially in the fields of web development, backend, and early-stage startups.
 - ⚡  Fun fact: When I first started learning to code, I thought bugs were something scary))
 
